@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
-Console.WriteLine("Hello, world!");
+Console.WriteLine("Ciao mondo!");
 
 
 // Add services to the container.
